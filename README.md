@@ -1,5 +1,4 @@
-PHP-Proxy
-=========
+# PHP-Proxy
 
 This script allows cross-domain JavaScript AJAX calls using GET and POST (and propably other methods) to any server by acting as a proxy.
 
